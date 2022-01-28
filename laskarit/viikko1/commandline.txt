@@ -1,3 +1,5 @@
+"Yeah, right"
+
 * 5b91360 file1 poistettuja file2 renametti file22 -nimiseksi
 * 50b7586 a directory with three files
 * 69176b5 played around with the -p switch on the add

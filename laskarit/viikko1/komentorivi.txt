@@ -1,0 +1,124 @@
+commit 5b91360cc9b7660547671d39a9a07f2d6ef2d353
+Author: Juho Jutila <juho.jutila@columbiaroad.com>
+Date:   Wed Jan 26 10:55:41 2022 +0200
+
+    file1 poistettuja file2 renametti file22 -nimiseksi
+
+ filez/file2             | 0
+ filez/{file1 => file22} | 0
+ filez/file3             | 1 +
+ 3 files changed, 1 insertion(+)
+
+commit 50b75862419d7cfd8e475715657d3e9893e1886f
+Author: Juho Jutila <juho.jutila@columbiaroad.com>
+Date:   Wed Jan 26 09:50:30 2022 +0200
+
+    a directory with three files
+
+ filez/file1 | 0
+ filez/file2 | 0
+ filez/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 69176b5ee291b0243614d670cb2b0a2fc7be902d
+Author: Juho Jutila <juho.jutila@columbiaroad.com>
+Date:   Thu Jan 20 10:46:22 2022 +0200
+
+    played around with the -p switch on the add
+
+ ekafoo.txt | 4 +++-
+ third.txt  | 4 +++-
+ 2 files changed, 6 insertions(+), 2 deletions(-)
+
+commit 77d21ee56f00a8b16f98cd3b065a8178a71ffcc0
+Author: Juho Jutila <juho.jutila@columbiaroad.com>
+Date:   Thu Jan 20 10:34:18 2022 +0200
+
+    more exploring the renaming side effects
+
+ foo.txt | 5 -----
+ 1 file changed, 5 deletions(-)
+
+commit ca038e90a6d80fba9663675a763b28ab2883d965
+Author: Juho Jutila <juho.jutila@columbiaroad.com>
+Date:   Thu Jan 20 10:33:34 2022 +0200
+
+    tried renaming
+
+ ekafoo.txt | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit 9794c95f70cb6cde62c9ae7cc6e8338cd7c73e9a
+Author: Juho Jutila <juho.jutila@columbiaroad.com>
+Date:   Thu Jan 20 10:31:43 2022 +0200
+
+    removed bar2.txt
+
+ bar2.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 3cc2b68197b605ce0e4e9ec028f645a47f5e1949
+Author: Juho Jutila <juho.jutila@columbiaroad.com>
+Date:   Thu Jan 20 10:24:25 2022 +0200
+
+    took the first long chapter away, and then added something in the end
+
+ foo.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 43411aa25ba7a4eda6e1f9ed8d8f61f395840457
+Author: Juho Jutila <juho.jutila@columbiaroad.com>
+Date:   Thu Jan 20 10:14:13 2022 +0200
+
+    added two paragraphs into foo.txt
+
+ foo.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit dd6b8e6f439887202eeaa4be4282d47afa2c2d20
+Author: Juho Jutila <juho.jutila@columbiaroad.com>
+Date:   Thu Jan 20 09:42:33 2022 +0200
+
+    directory stuff with 2 files added
+
+ stuff/stuffed1.txt | 0
+ stuff/stuffed2.txt | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 4258574e2c04bd01a1896463cbd8dd96a51da60c
+Author: Juho Jutila <juho.jutila@columbiaroad.com>
+Date:   Thu Jan 20 09:13:59 2022 +0200
+
+    changed some content on the 2 and 3
+
+ bar2.txt  | 1 +
+ third.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 59ca6cca2b810bb8c2d97da1923e053baba5484a
+Author: Juho Jutila <juho.jutila@columbiaroad.com>
+Date:   Thu Jan 20 09:11:37 2022 +0200
+
+    created and added a third file
+
+ third.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 5c15bea4db7b278b4f56ba16302441a725669b91
+Author: Juho Jutila <juho.jutila@columbiaroad.com>
+Date:   Wed Jan 19 11:13:55 2022 +0200
+
+    change and addition
+
+ bar2.txt | 0
+ foo.txt  | 1 +
+ 2 files changed, 1 insertion(+)
+
+commit 8972956e67a867c7236a5ad446706aa7609e6930
+Author: Juho Jutila <juho.jutila@columbiaroad.com>
+Date:   Wed Jan 19 11:05:25 2022 +0200
+
+    foo.txt created
+
+ foo.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)

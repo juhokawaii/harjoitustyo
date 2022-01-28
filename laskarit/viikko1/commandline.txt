@@ -1,0 +1,13 @@
+* 5b91360 file1 poistettuja file2 renametti file22 -nimiseksi
+* 50b7586 a directory with three files
+* 69176b5 played around with the -p switch on the add
+* 77d21ee more exploring the renaming side effects
+* ca038e9 tried renaming
+* 9794c95 removed bar2.txt
+* 3cc2b68 took the first long chapter away, and then added something in the end
+* 43411aa added two paragraphs into foo.txt
+* dd6b8e6 directory stuff with 2 files added
+* 4258574 changed some content on the 2 and 3
+* 59ca6cc created and added a third file
+* 5c15bea change and addition
+* 8972956 foo.txt created

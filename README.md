@@ -1,3 +1,8 @@
+A change in local 
+
+
+--
+
 [cli](https://github.com/juhokawaii/harjoitustyo/blob/main/laskarit/viikko1/commandline.txt) 
 
 [kehote](https://github.com/juhokawaii/harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt)

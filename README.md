@@ -1,5 +1,6 @@
-https://github.com/juhokawaii/harjoitustyo/blob/main/laskarit/viikko1/commandline.txt
-https://github.com/juhokawaii/harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt
+[cli](https://github.com/juhokawaii/harjoitustyo/blob/main/laskarit/viikko1/commandline.txt) 
+
+[kehote](https://github.com/juhokawaii/harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt)
 
 # Welcome
 ## This is a very much practice document
@@ -9,11 +10,11 @@ https://github.com/juhokawaii/harjoitustyo/blob/main/laskarit/viikko1/komentoriv
 ###### Smallest
 ####### What happens now? 
 
-** Bold **
-* Italic *
-~~ Strike ~~
-** oh _this_ works too **
-*** wtf I just formatted ***
+**Bold**
+*Italic*
+~~Strike~~
+**oh _this_ works too**
+***wtf I just formatted***
 
 > This is a quote
 

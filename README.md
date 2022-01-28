@@ -1,3 +1,6 @@
+https://github.com/juhokawaii/harjoitustyo/blob/main/laskarit/viikko1/commandline.txt
+https://github.com/juhokawaii/harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt
+
 # Welcome
 ## This is a very much practice document
 ### Third
